@@ -34,7 +34,7 @@ for(int i=0;i<n;i+=2)
 for(int i=1;i<n;i+=2)
 	even_gcd=__gcd(even_gcd,v[i]);
 
-long long int ans=0;
+//long long int ans=0;
 
 bool check=true;
 
